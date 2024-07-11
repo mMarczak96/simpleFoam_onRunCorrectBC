@@ -1,0 +1,3 @@
+SOURCE += simpleFoam.C
+
+EXE = $(FOAM_APPBIN)/simpleFoam_onRunCorrectBC
